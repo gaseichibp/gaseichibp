@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Seichi</h1>
+<h1 align="center">Hello World! I'm Seichi</h1>
 <h3 align="center">A passionate data scientist from Brazil</h3>
 
 <p align="left"> 
