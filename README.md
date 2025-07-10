@@ -1,5 +1,5 @@
 <h1 align="center">Hello World! I'm Seichi</h1>
-<h3 align="center">A passionate computer scientist</h3>
+<h3 align="center">A computer scientist</h3>
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
