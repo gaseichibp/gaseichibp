@@ -6,8 +6,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=gaseichibp&theme=onedark" alt="gaseichibp" />
   </a> 
 </p>
-
-- 🔭 I’m currently working on **X-dit**  
+ 
 - 🌱 I’m currently learning **AI/ML**  
 - 📫 How to reach me **gabriels.baptista05@gmail.com**  
 
