@@ -9,16 +9,6 @@
  
 - I’m currently learning **AI/ML** and **Operating System**
 
-<h2>ATTENTION!</h2>
-🚀 Seeking creative minds!
-
-We're building something bold — merging cutting-edge technology, extreme performance, and true innovation.  
-If you're into low-level challenges, machine intelligence, and clean architecture, this project might be for you.
-Join our Discord and explore with us: [Here](https://discord.gg/EkAcnj29)
-Everyone is welcome — enthusiasts, students, researchers, and professionals.
-
-
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <!-- Ícones originais com fundo escuro -->
