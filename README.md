@@ -5,6 +5,8 @@ I'm Seichi, a ```computer scientist``` and ```founder``` of M.A.Y
 Currently, I'm developing a new operating system with a different paradigm—not just another OS, but a system designed to deliver a next-level experience for users.
 ## 
 
+
+
 <div align="left">
   <img src="https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white&style=for-the-badge" height="40" alt="vim logo"  />
   <img width="12" />
