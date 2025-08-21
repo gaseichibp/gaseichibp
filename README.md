@@ -7,7 +7,7 @@ Currently, I'm developing a new operating system with a different paradigm—not
 
 [![meuGif.gif](https://i.postimg.cc/CKhmx4Km/meuGif.gif)](https://postimg.cc/yDGFfccZ)
 
-
+##
 <div align="left">
   <img src="https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white&style=for-the-badge" height="40" alt="vim logo"  />
   <img width="12" />
